@@ -1,4 +1,4 @@
-# 🚀 [Nome Azienda/Brand] - Innovazione EdTech, AI & Cybersecurity
+# 🚀 [Hippo Campus Education] - Innovazione EdTech, AI & Cybersecurity
 
 **Benvenuto nel repository ufficiale di [Nome Azienda]**!  
 Siamo un team di esperti in **e-learning, cybersecurity, AI & automazione** con un focus sulla creazione di soluzioni digitali innovative per la formazione e l’ottimizzazione aziendale.
@@ -44,8 +44,6 @@ Aiutiamo aziende, professionisti e formatori a **digitalizzare**, **automatizzar
 🚀 **[Blog & Articoli](#)** → Post su e-learning, cybersecurity, AI, automazione  
 📘 **[Documentazione & Guide](#)** → Ebook e tutorial pratici  
 📂 **[Progetti Open Source](#)** → Strumenti AI, automazioni Python & risorse per formatori  
-
-Seguici su **[LinkedIn](#) | [YouTube](#) | [Twitter](#)** per aggiornamenti!
 
 ---
 
